@@ -59,13 +59,6 @@ This AI booking system is perfect for:
 
 ---
 
-## 🔗 Related AI Solutions
-
-- 👉 [AI Assistant for College Consultants](https://chaaropik.com/ai-assistant-college-consultants)  
-- 👉 [AI Answering Service for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-answering-service-education/)  
-- 👉 [AI Automation Tools](https://chaaropik.com/connect)  
-
----
 
 ## 🌎 Use Case: Education Consultants in the USA
 
@@ -98,10 +91,10 @@ Start using **appointment booking AI for education consultants** today:
 
 Chaaropik AI builds automation tools for education consultants, including AI assistants, answering services, and appointment booking systems.
 
----
 ## 🔗 Related AI Solutions
 
 - [AI Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/ai-assistant-college-consultants/)
 - [AI Answering Service for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-answering-service-education/)
 - [Appointment Booking AI for Education Consultants](https://ai-assistant-college-consultants.github.io/appointment-booking-ai-consultants/)
 - [Virtual Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/virtual-assistant-college-consultants/)
+- [AI Chatbot for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-chatbot-education-consultants/)
